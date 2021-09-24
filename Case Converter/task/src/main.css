@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 48px;
+}
+
+textarea {
+    min-height: 60vh;
+}
+
+button {
+    margin: 10px 20px 10px 0;
+    border: 0;
+    padding: 10px;
+    background: rosybrown;
+}
